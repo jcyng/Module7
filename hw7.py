@@ -1,5 +1,8 @@
 from sortedcontainers import SortedDict
 
+#
+# use this to show options
+#
 def print_menu():
     print('1. Print Users')
     print('2. Add a User')
